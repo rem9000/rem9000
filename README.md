@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [MEE6](https://mee6.xyz)
 
-- 🌱 I’m currently playing around with **Javascript, Python, Express.js, Nestjs and Vue,js**
+- 🌱 Playing around with **Javascript, Python, Express.js and React**
 
 
 
