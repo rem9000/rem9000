@@ -1,10 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rem</h1>
 
-- 🔭 I’m currently working at [MEE6](https://mee6.xyz)
-
-- 🌱 Playing around with **Javascript, Python, Express.js and React**
-
 
 
 <h3 align="left">Connect with me:</h3>
