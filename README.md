@@ -11,7 +11,7 @@
 
 👨‍💻 Full-Stack Developer | 🖥️ IT Administrator | 🚀 Tech Enthusiast
 
-Hi there, I'm **Rem9000**! 🚀  
+Hi there, I'm **Rem**! 🚀  
 A passionate **Full Stack Developer** with a love for crafting scalable and efficient systems.
 
 ---
@@ -19,7 +19,15 @@ A passionate **Full Stack Developer** with a love for crafting scalable and effi
 ## What I Do ⚙️
 
 - 🔌 Building **Full Stack Applications** (Backend > Frontend > Everything in between)  
+  - Kubernetes and Container Orchestration
+  - Continuous Integration/Continuous Deployment (CI/CD)
+  - Data Storage Solutions
 - ⚛️ Automating and simplifying tech workflows
+- 🖥️ Managing **IT Infrastructure**, including:
+  - Microsoft 365 Administration
+  - Networking and Firewalls
+  - Hardware and Software Management
+  - Security and Process Optimization
 
 ---
 
@@ -45,5 +53,3 @@ Feel free to reach out or check out my projects here on GitHub!
 ► [My GitHub Profile](https://github.com/rem9000)
 
 ---
-
-> “Simplicity is the soul of efficiency.”
